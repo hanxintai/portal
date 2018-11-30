@@ -6,7 +6,7 @@ ${SERVER}              172.27.242.50:8080
 ${BROWSER}             Chrome
 ${DELAY}               0
 ${VALID USER}          13606067800
-${LOGINPAGE TITLE}	 CDN 运营门户
+${LOGINPAGE TITLE}	CDN 运营门户
 ${LOGIN URL}           http://${SERVER}/login
 ${WELCOME URL}         http://${SERVER}/loginSuccess
 ${CREATE_DOMAIN_URL}   http://${SERVER}/selfService/domain/ticket/create
